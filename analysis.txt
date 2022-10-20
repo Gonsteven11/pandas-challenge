@@ -1,0 +1,17 @@
+Summarizes the analysis (5 points)
+
+Out of the 15 schools listed, there are over 39,00 students enrolled between all of them. The average Math score in that district is nearly 79%, while the reading score is nearly 82%. When breaking down further the rate of passing grades, the following showed:
+Passing Math: 75%
+Passing Reading: 83%
+Overall Passing: 65%
+
+
+Draws two correct conclusions or comparisons from the calculations (10 points)
+
+When breaking down the schools, there seems to be a big gap between schools passing with 90% and above, and those with near failing percentages in the high 60"s. Eight are in the 90", while 7 are in the 60's.
+
+Cabrera, Griffin, Pena, Thomas, Wilson, and Wright schools were within 1 percent of eachtoher. 
+
+The bottom five schools have lower than average Math scores that bog down their overall passing grade. ReadingIs in the low 80's. 
+
+Last two sections could not be completed, due to an error on the Scores by School Size. Could not figure out the error TypeError: '<' not supported between instances of 'int' and 'str'.
